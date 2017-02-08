@@ -81,8 +81,8 @@ header a:hover {
 #showcase {
 	min-height: 400px;
 	background: url("../images/nairobi-skyline.png") repeat;
-text-align: center;
-color: black;
+	text-align: center;
+	color: black;
 }
 
 #showcase h1 {
